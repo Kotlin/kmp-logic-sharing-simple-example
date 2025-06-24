@@ -1,5 +1,7 @@
 This is a Kotlin Multiplatform project targeting Android (Jetpack Compose), iOS (SwiftUI), and Web (React).
 
+![screenshot.png](screenshot.png)
+
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
   - `commonMain` is for code that’s common for all targets.
