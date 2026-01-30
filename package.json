@@ -4,7 +4,7 @@
   "private": true,
   "workspaces": [
     "webApp",
-    "shared/build/dist/js/developmentLibrary"
+    "sharedLogic/build/dist/js/developmentLibrary"
   ],
   "scripts": {
     "build": "cd webApp && npm run build",
