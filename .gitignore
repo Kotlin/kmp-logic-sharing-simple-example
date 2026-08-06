@@ -2,6 +2,7 @@
 .kotlin
 .gradle
 **/build/
+**/dist/
 node_modules
 xcuserdata
 !src/**/build/
